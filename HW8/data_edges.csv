@@ -1,0 +1,104 @@
+company,projects,weights
+SpaceX,United Launch Alliance,1
+SpaceX,SwissCube,1
+SpaceX,Starlink,1
+SpaceX,Virgin Galactic,1
+SpaceX,Вега (ракета-носитель),1
+SpaceX,OneWeb,3
+SpaceX,United Airlines,2
+SpaceX,Inmarsat-5 F4,1
+SpaceX,Lufthansa,1
+SpaceX,Qatar Airways,1
+Jet Propulsion Laboratory,Дискавери (шаттл),1
+Jet Propulsion Laboratory,Аполлон (космическая программа),1
+Jet Propulsion Laboratory,Планк (космическая обсерватория),1
+Jet Propulsion Laboratory,InSight,1
+Jet Propulsion Laboratory,United Airlines,1
+Jet Propulsion Laboratory,GGS WIND,1
+Armstrong Flight Research Center,Everts Air,1
+Armstrong Flight Research Center,Mitsubishi A6M Zero,1
+Armstrong Flight Research Center,United Airlines,1
+Federal Aviation Administration,United Launch Alliance,1
+Federal Aviation Administration,Everts Air,1
+Federal Aviation Administration,Mitsubishi A6M Zero,1
+Federal Aviation Administration,Virgin Galactic,1
+Federal Aviation Administration,United Airlines,3
+Leonardo,Вега (ракета-носитель),1
+NASA,Дискавери (шаттл),1
+NASA,United Launch Alliance,2
+NASA,ASM-135 ASAT,1
+NASA,Everts Air,1
+NASA,Mitsubishi A6M Zero,1
+NASA,Jason-3,1
+NASA,Аполлон (космическая программа),1
+NASA,Dragonfly (космический аппарат),1
+NASA,Планк (космическая обсерватория),1
+NASA,Virgin Galactic,1
+NASA,InSight,1
+NASA,Международная космическая станция,3
+NASA,Вега (ракета-носитель),1
+NASA,OneWeb,2
+NASA,United Airlines,8
+NASA,GGS WIND,1
+NASA,Артемида (космическая программа),1
+ESA,United Launch Alliance,1
+ESA,SwissCube,1
+ESA,Jason-3,1
+ESA,Международная космическая станция,4
+ESA,Вега (ракета-носитель),4
+ESA,OneWeb,1
+ESA,United Airlines,4
+Italian Space Agency,Вега (ракета-носитель),1
+Naked Science,Международная космическая станция,1
+Starlink,Starlink,1
+Starlink,OneWeb,1
+Safran,Вега (ракета-носитель),2
+Safran,United Airlines,1
+Space Research Center,Дискавери (шаттл),1
+Space Research Center,Аполлон (космическая программа),1
+Space Research Center,Планк (космическая обсерватория),1
+Space Research Center,InSight,1
+Space Research Center,United Airlines,1
+Space Research Center,GGS WIND,1
+Roscosmos,Международная космическая станция,3
+Kennedy Space Center,OneWeb,1
+Kennedy Space Center,United Airlines,1
+SpaceNews,Ka-Sat,1
+SpaceNews,United Launch Alliance,1
+SpaceNews,SwissCube,1
+SpaceNews,Jason-3,1
+SpaceNews,Амос-6,1
+SpaceNews,Вега (ракета-носитель),1
+SpaceNews,OneWeb,4
+SpaceNews,United Airlines,3
+SpaceNews,Inmarsat-5 F4,1
+SpaceNews,Lufthansa,1
+SpaceNews,Qatar Airways,1
+UK space agency,Вега (ракета-носитель),1
+UK space agency,OneWeb,1
+Blue Origin,Starlink,1
+Blue Origin,OneWeb,2
+United Launch Alliance,United Launch Alliance,2
+United Launch Alliance,Jason-3,1
+United Launch Alliance,Virgin Galactic,1
+United Launch Alliance,OneWeb,1
+United Launch Alliance,United Airlines,2
+Marshall Space Flight Center,Дискавери (шаттл),1
+Marshall Space Flight Center,Аполлон (космическая программа),1
+Marshall Space Flight Center,Планк (космическая обсерватория),1
+Marshall Space Flight Center,InSight,1
+Marshall Space Flight Center,United Airlines,1
+Marshall Space Flight Center,GGS WIND,1
+Meggitt PLC,United Airlines,1
+Guiana Space Center,GSAT-19,1
+Guiana Space Center,GSAT-17,1
+Guiana Space Center,Вега (ракета-носитель),1
+ClearSpace,Вега (ракета-носитель),1
+ClearSpace,OneWeb,1
+Virgin Galactic,United Launch Alliance,1
+Virgin Galactic,Virgin Galactic,1
+Virgin Galactic,United Airlines,1
+Rocket Lab,Вега (ракета-носитель),1
+Rocket Lab,OneWeb,1
+Japan Aerospace Exploration Agency,Вега (ракета-носитель),1
+Japan Aerospace Exploration Agency,OneWeb,1
