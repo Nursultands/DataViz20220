@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Network</title>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.min.js" integrity="sha512-MefNfAGJ/pEy89xLOFs3V6pYPs6AmUhXJrRlydI/9wZuGrqxmrdQ80zKHUcyadAcpH67teDZcBeS6oMJLPtTqw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="graph.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="network.css">
+</head>
+<body>
+<!-- <div id="wrapper"> -->
+
+
+  <div id="wrapper" style='max-width: 900px; overflow-x: auto; padding: 0px; margin: 0px;'>
+    <div>
+      <div><label><input name="newNode" type="text" id="newNode"> <i>Название добавляемой ноды</i></label></div>
+      <div><label><input name="toNode" type="text" id="toNode"> <i>Нода к которой нужно добавить</i></label></div>
+      <button onclick="add()">Добавить</button>
+    </div>
+    <div>
+      <div><label><input name="oldNodeName" type="text" id="oldNodeName"> <i>Старое название ноды</i></label></div>
+      <div><label><input name="newNodeName" type="text" id="newNodeName"> <i>Новое название ноды</i></label></div>
+      <button onclick="change()">Изменить</button>
+    </div>
+  </div>
+
+<!-- </div> -->
+</body>
+</html>
